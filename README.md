@@ -1,4 +1,4 @@
-# FSD lab2
+# GitHub And 
 lab program
 Hosting Link : https://vamshireddyadama.github.io/FSD/
 Campus Event Management Website
